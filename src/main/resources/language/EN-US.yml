@@ -8,7 +8,5 @@ scenario-not-found: "{prefix} &cThe scenario '{name}' does not exist."
 
 reload-success: "{prefix} &aSuccessfully reloaded!"
 
-
-
 scenario-start: "{prefix} &aThe scenario \"{name}\" has started."
 scenario-end: "{prefix} &cThe scenario \"{name}\" has ended."
