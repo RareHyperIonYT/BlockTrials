@@ -48,4 +48,4 @@ lava_rises:
 
 glitch:
   name: "Glitch"
-  description: "A random glitch event will happen every 5 seconds."
+  description: "A random glitch event will happen every 10 seconds."
