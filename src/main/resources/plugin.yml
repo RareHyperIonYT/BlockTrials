@@ -1,0 +1,9 @@
+name: BlockTrials
+author: "RareHyperIon"
+version: '1.0'
+main: me.RareHyperIon.BlockTrials.BlockTrials
+api-version: '1.13'
+depend: [WorldEdit]
+commands:
+  blocktrials:
+    aliases: [bt]

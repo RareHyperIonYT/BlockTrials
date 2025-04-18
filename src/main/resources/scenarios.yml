@@ -1,0 +1,51 @@
+anvil_rain:
+  name: "Anvil Rain"
+  description: "Anvils will spawn from the sky every minute."
+
+bedrock_trail:
+  name: "Bedrock Trail"
+  description: "Wherever you move, you leave a bedrock trail."
+
+sun_burn:
+  name: "Sun Burn"
+  description: "You burn in the sun."
+
+speed_surge:
+  name: "Speed Surge"
+  description: "Every minute your speed gets faster."
+
+linked_damage:
+  name: "Linked Damage"
+  description: "All players share damage."
+
+linked_hunger:
+  name: "Linked Hunger"
+  description: "All players share a single hunger bars."
+
+linked_inventories:
+  name: "Linked Inventories"
+  description: "All players share a single inventory."
+
+no_jump:
+  name: "No Jump"
+  description: "Attempting to jump will kill you."
+
+tnt_rain:
+  name: "TNT Rain"
+  description: "TNT will spawn from the sky every minute."
+
+tnt_trail:
+  name: "TNT Trail"
+  description: "Wherever you move, you leave a TNT trail."
+
+world_decay:
+  name: "World Decay"
+  description: "Every block the sun touches slowly breaks."
+
+lava_rises:
+  name: "Lava Rises"
+  description: "Lava slowly rises every 30 seconds, consuming the world."
+
+glitch:
+  name: "Glitch"
+  description: "A random glitch event will happen every 5 seconds."

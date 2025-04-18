@@ -1,0 +1,14 @@
+prefix: "&b&lBlockTrials&r"
+
+correct-usage: "{prefix} &cUsage: /blocktrials {usage}"
+no-permission: "{prefix} &cYou do not have permission to run this command."
+player-command-only: "{prefix} &cThis command can only be ran by players."
+
+scenario-not-found: "{prefix} &cThe scenario '{name}' does not exist."
+
+reload-success: "{prefix} &aSuccessfully reloaded!"
+
+
+
+scenario-start: "{prefix} &aThe scenario \"{name}\" has started."
+scenario-end: "{prefix} &cThe scenario \"{name}\" has ended."
