@@ -28,9 +28,9 @@ public class Glitch extends Scenario {
     protected void onStart() {
         this.repeat(() -> {
             for(final Player player : Bukkit.getOnlinePlayers()) {
-                final int option = this.random.nextInt(8);
+                if(this.random.nextBoolean()) continue;
 
-                player.sendMessage("EVENT: " + option);
+                final int option = this.random.nextInt(8);
 
                 switch (option) {
                     case 0: {
